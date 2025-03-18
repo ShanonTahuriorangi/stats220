@@ -12,5 +12,6 @@
 1. [Facebook](https://www.instagram.com/average_guy_no.5/)
 2. [Instagram](https://www.facebook.com/NephalemBlood/)
 
+A meme that captures how I currently feel about my university studies is 
 
-A meme that captures how I currently feel about my university studies is ![](https://media1.tenor.com/m/q66Jqal0BmIAAAAC/winnie-the-pooh-hungry.gif)
+![](https://media1.tenor.com/m/q66Jqal0BmIAAAAC/winnie-the-pooh-hungry.gif)
