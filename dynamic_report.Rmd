@@ -21,7 +21,9 @@ h1, h2 {
 ```
 
 ## Observations on Ad Interactions and Relevance on social media
-In this report, I will explore data collected from my observations of ads on social media platforms. The goal is to understand the frequency and relevance of ads shown to users and how they interact with these ads. The dataset contains multiple observations recorded over a period of time, where I tracked:
+In this report, I will explore data collected from my observations of ads on social media platforms. 
+The goal is to understand the frequency and relevance of ads shown to users and how they interact with these ads. 
+The dataset contains multiple observations recorded over a period of time, where I tracked:
 - The social media platform used
 - The type of content I was engaging with before seeing the ad
 - The number of ads shown during each observation
