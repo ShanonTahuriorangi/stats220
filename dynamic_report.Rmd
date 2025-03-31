@@ -29,6 +29,19 @@ In this report, I will explore data collected from my observations of ads on soc
 - Whether I interacted with the ads and how often
 
 ```{r}
+# Rename variables in the dataset to make them more meaningful
+latest_data <- logged_data %>%
+  rename(Timestamp = 1,
+    Platform = 2,
+    ContentType = 3,
+    NumAds = 4,
+    AdRelevance = 5,
+    AdInteractionFrequency = 6
+  )
+
+# Check the renamed columns
+colnames(latest_data)
+
 # Bar chart for Ad Interaction Frequency by Platform
 ggplot(latest_data, aes(x = Platform, fill = AdInteractionFrequency)) +
   geom_bar() +
