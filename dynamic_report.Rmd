@@ -54,7 +54,3 @@ paste0("The average ad relevance across all platforms is ", round(avg_ad_relevan
 
 
 ```
-
-The best pet to have is a `r best_pet` of course!
-
-![](https://c.tenor.com/-qBsG1HwR4oAAAAC/tenor.gif)
